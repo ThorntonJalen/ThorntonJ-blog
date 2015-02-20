@@ -1,0 +1,2 @@
+<?php
+ $path = "/ThorntonJ-blog/";
