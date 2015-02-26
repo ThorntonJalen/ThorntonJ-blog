@@ -5,7 +5,7 @@
 
 <h1> Create Blog Post </h1>
 
-<form method="post" action="<?php  echo $past . "controller/create post.php"; ?>">
+<form method="post" action="<?php  echo $past . "controller/create-user.php"; ?>">
     <div>
         <label for="title">Title: </label>
         <input type="text" name="title" /> 
